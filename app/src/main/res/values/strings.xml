@@ -26,5 +26,13 @@
     <string name="r2">面部补水</string>
     <string name="r3">身体按摩</string>
     <string name="r4">全网最低价49元专区</string>
+    <string name="order">我的订单</string>
+    <string name="mycenter">个人中心</string>
+    <string name="more">更多</string>
+    <string name="item1">接收通知</string>
+    <string name="item2">招聘手艺人</string>
+    <string name="item3">服务范围</string>
+    <string name="item4">用户反馈</string>
+    <string name="item5">关于我们</string>
 
 </resources>

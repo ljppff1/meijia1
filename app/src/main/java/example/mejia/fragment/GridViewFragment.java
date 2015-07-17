@@ -42,11 +42,11 @@ public class GridViewFragment extends Fragment {
         adapter.setList(DataService.getInstance().getList());
         adapter.notifyDataSetChanged();
 
-
         // attach top
         gridView.setOnScrollListener(new AbsListView.OnScrollListener() {
             @Override
             public void onScrollStateChanged(AbsListView view, int scrollState) {
+
             }
 
             @Override

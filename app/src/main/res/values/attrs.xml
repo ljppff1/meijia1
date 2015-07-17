@@ -6,5 +6,19 @@
         <attr name="big" format="boolean" />  
         <attr name="home" format="integer" />  
         <attr name="text" format="string" />  
-    </declare-styleable>  
+    </declare-styleable>
+
+    <attr name="borderRadius" format="dimension" />
+    <attr name="type1">
+        <enum name="circle" value="0" />
+        <enum name="round" value="1" />
+    </attr>
+    <attr name="src" format="reference"></attr>
+
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" />
+        <attr name="type1" />
+        <attr name="src" />
+    </declare-styleable>
+
 </resources>  
